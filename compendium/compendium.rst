@@ -4,33 +4,10 @@ Compendium
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the chats with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive.
 
 
-Index
-=====
+----
 
-#. `Life`_
-    #. `Origin`_
-    #. `Aurora in Life`_
-    #. `Iterations`_
 
-#. `LFE`_
-    #. `Species`_
-    #. `Synapsian`_
-    #. `Science`_
-    #. `Culture`_
-    #. `Technology`_
-    #. `Economy/Government`_
-    #. `Ghakuwent'sj`_
-    #. `Magic`_
-    #. `System parameters`_
-
-#. `Systemspace`_
-    #. `Souls, Experience, Memories, and Users`_
-    #. `Aurora`_
-
-#. `Statements Made by Tsuki`_
-
-#. `Misc`_
-    #. `Referenced Material`_
+.. contents:: \
 
 
 ----
@@ -189,8 +166,8 @@ If it's due to pressure differences then why is the expansion accelerating?
     We're not sure, it doesn't do that in LFE. Some people say it's because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm no physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
 
 
-Aurora in Life
---------------
+Aurora
+------
 
 Is it possible for humans to manipulate Aurora in Life?
     It's not supposed to be possible, but it can work.
