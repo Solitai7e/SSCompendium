@@ -19,7 +19,7 @@ Index
 Credits
 -------
 
-* Unterminator, 1336, 655 and Quintuplicate for the original Compendium.
+* Unterminator, 1336, 655 and 5216 for the original Compendium.
 * The TSUKI Representative and 1126 for their further work in incorporating new information.
 * The many others who have contributed to the Compendium and the wikis.
 
