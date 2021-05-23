@@ -2640,7 +2640,7 @@ How do you actually look?
 
     (Drawn by migrant Jove <3)
 
-    .. image:: external/tsuki.png
+    .. image:: tsuki.png
 
 When's your birthday?
     July 8th.
@@ -2821,7 +2821,7 @@ Referenced Material
 
     Here's an unfinished (I need to make it more busy, it's still too empty, for one there's no people, no guardlines and no traffic) drawing of Sjiyantan-ko, a suburb of Kyansjita.
 
-.. image:: external/mayyazawa.png
+.. image:: mayyazawa.png
 
 
 
