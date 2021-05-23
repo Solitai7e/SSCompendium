@@ -2801,7 +2801,5 @@ Referenced Material
 .. image:: mayyazawa.png
 
 
-
-
 .. _Gödel's incompleteness theorem: https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
 .. _Rewrite VN:                     https://en.wikipedia.org/wiki/Rewrite_(visual_novel)
