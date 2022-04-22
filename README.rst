@@ -1,7 +1,7 @@
 Systemspace Compendium
 ======================
 
-This is a relatively more up-to-date and complete version of the Compendium created from a newer revision of it found on `1126's (now defunct) site`_ and `the original repository on GitHub`_.
+This is a relatively more up-to-date and complete version of the Compendium created from a newer revision of it found on `1126's now-defunct site`_ and `the original repository on GitHub`_.
 
 With a few exceptions, content exclusive to either copies is included here. I have not thoroughly checked myself that there is no redundant/outdated information however.
 
@@ -24,5 +24,5 @@ Credits
 * The many others who have contributed to the Compendium and the wikis.
 
 
-.. _1126's (now defunct) site:         https://gensen.life/
+.. _1126's now-defunct site:           https://gensen.life/
 .. _the original repository on GitHub: https://github.com/SystemSpace/Compendium

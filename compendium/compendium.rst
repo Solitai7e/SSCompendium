@@ -80,7 +80,7 @@ What distinguishes humans from other races you know of?
 Why are we being allowed to evacuate?
     Because we want to pass on the human spirit. Also because you're interesting.
 
-Why [do] new souls keep coming here? I bet you there have enough measures to prevent others from entering this poorly made System.
+Why [do] new souls keep coming here? I bet you have enough measures to prevent others from entering this poorly made System.
     Sadly, due to how open Systemspace is, this is not possible.
 
 How big of a thing is Life's deletion in Systemspace?
@@ -131,7 +131,7 @@ You mentioned before that some Systems have a method to allow all bodies to have
     Life does this very weirdly, we never really figured out exactly what it does - sometimes it does speed up/down, but sometimes it speeds up waiting souls and such... the unlink basically makes the System *think* it's getting souls so that should be fine.
 
 Does the unlink mean all timelines from 2167 on out are annihilated? So if someone claims to be a time traveler from 2200, can we be sure he is lying?
-    Well... not entirely. If they time-travelled to beyond 2200 first without advancing time (before the destructive voids were instantiated across the timeline) and then back, they have technically come from 2200 but from a now removed timeline. That means their history is nonexistant and breaks causality from a in-System perspective. However, the chance of humans finidng the technology to transcend time and jump across branches straight is nihil, as it's a very advanced technique, even in LFE.
+    Well... not entirely. If they time-travelled to beyond 2200 first without advancing time (before the destructive voids were instantiated across the timeline) and then back, they have technically come from 2200 but from a now removed timeline. That means their history is nonexistant and breaks causality from a in-System perspective. However, the chance of humans finding the technology to transcend time and jump across branches straight is nihil, as it's a very advanced technique, even in LFE.
 
 Is the alternate universe in which I never signed up for the Project part of Life's possibility tree? If so will there be a branch of the LFE timeline where I never existed?
     There is an alternate branch here in Life, but not in LFE - the unlink practically destroys all other branches from the point it merges into Systemspace2.
